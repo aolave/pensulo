@@ -7,6 +7,7 @@
 """
 
 sin(α)≅α 
+
 -La longitud de la trayectoria curva s y el desplazamiento x en el eje horizontal tienden a igualarse
 
 -La aceleración normal es despreciable

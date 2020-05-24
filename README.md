@@ -7,7 +7,10 @@
 """
 
 sin(α)≅α 
-La longitud de la trayectoria curva s y el desplazamiento x en el eje horizontal tienden a igualarse
-La aceleración normal es despreciable
-Se puede considerar que la trayectoria del móvil es horizontal
-La posición viene dada por la separación x a la vértical de equilibrio
+-La longitud de la trayectoria curva s y el desplazamiento x en el eje horizontal tienden a igualarse
+
+-La aceleración normal es despreciable
+
+-Se puede considerar que la trayectoria del móvil es horizontal
+
+-La posición viene dada por la separación x a la vértical de equilibrio
